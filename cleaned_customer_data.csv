@@ -1,0 +1,101 @@
+Customer ID,Age,Gender,Item Purchased,Category,Purchase Amount,Location,Size,Color,Season,Review Rating,Subscription Status,Shipping Type,Discount Applied,Promo Code Used,Previous Purchases,Payment Method,Frequency of Purchases
+1,49,Female,Blazer,Outerwear,87,Vermont,S,Green,Winter,4.2,Yes,Next Day,Yes,Yes,35,UPI,Fortnightly
+2,48,Male,Blazer,Outerwear,35,Louisiana,L,White,Spring,2.4,No,Free Shipping,Yes,Yes,34,UPI,Bi-Weekly
+3,59,Female,Watch,Accessories,79,Virginia,M,White,Winter,4.8,No,Free Shipping,No,Yes,34,Debit Card,Weekly
+4,29,Female,Sneakers,Footwear,53,Hawaii,S,Gray,Winter,4.8,Yes,Standard,No,No,48,Credit Card,Fortnightly
+5,44,Female,Watch,Accessories,93,Hawaii,XL,Green,Fall,3.8,No,Free Shipping,Yes,Yes,44,Debit Card,Quarterly
+6,63,Male,Boots,Footwear,57,Georgia,L,Maroon,Winter,2.5,No,Next Day,Yes,Yes,25,Credit Card,Bi-Weekly
+7,31,Female,Sandals,Footwear,79,Illinois,S,Gray,Fall,2.8,Yes,Express,Yes,Yes,31,Cash,Quarterly
+8,38,Male,Hoodie,Outerwear,19,Utah,M,Blue,Summer,4.6,Yes,Standard,Yes,No,19,Credit Card,Fortnightly
+9,32,Male,Sweater,Clothing,93,Texas,S,Maroon,Winter,4.4,No,Express,No,No,10,Credit Card,Weekly
+10,33,Male,Jacket,Clothing,97,Minnesota,XL,Gray,Winter,3.5,No,Store Pickup,Yes,No,26,UPI,Monthly
+11,18,Female,Sweater,Clothing,81,Washington,S,Maroon,Winter,3,Yes,Standard,Yes,Yes,35,PayPal,Quarterly
+12,44,Female,Coat,Outerwear,90,Hawaii,XL,White,Winter,4.7,No,Free Shipping,Yes,No,25,PayPal,Fortnightly
+13,35,Male,Sneakers,Footwear,82,Virginia,L,Gray,Spring,4,Yes,Free Shipping,Yes,Yes,29,Cash,Bi-Weekly
+14,57,Female,Bag,Accessories,16,North Dakota,XL,Black,Winter,4,No,Standard,Yes,No,46,Cash,Weekly
+15,60,Female,Pants,Clothing,60,Michigan,L,Black,Spring,4.7,Yes,Express,No,Yes,49,Credit Card,Weekly
+16,59,Male,Belt,Accessories,46,Illinois,M,Maroon,Winter,3.7,No,Express,Yes,No,7,PayPal,Bi-Weekly
+17,43,Male,Jacket,Clothing,45,Georgia,XL,Maroon,Fall,2.6,Yes,Standard,No,Yes,50,Credit Card,Fortnightly
+18,29,Female,Hoodie,Outerwear,12,Colorado,S,Black,Fall,4.9,Yes,Next Day,Yes,Yes,15,Cash,Bi-Weekly
+19,42,Male,Sunglasses,Accessories,87,Michigan,XL,Green,Winter,4.1,No,Standard,No,No,5,Credit Card,Weekly
+20,44,Female,Sunglasses,Accessories,78,Michigan,XL,Maroon,Winter,3.4,Yes,Next Day,No,Yes,5,Debit Card,Quarterly
+21,27,Male,Loafers,Footwear,51,Connecticut,XL,Black,Summer,2.1,Yes,Standard,No,No,25,UPI,Fortnightly
+22,22,Female,Blazer,Outerwear,50,Washington,M,White,Winter,2.1,Yes,Express,Yes,No,10,Debit Card,Quarterly
+23,56,Male,Loafers,Footwear,64,Minnesota,L,White,Winter,3.7,No,Express,Yes,Yes,12,Cash,Fortnightly
+24,55,Female,Boots,Footwear,86,Missouri,L,Maroon,Fall,4.1,No,Next Day,No,No,43,Credit Card,Fortnightly
+25,21,Female,Boots,Footwear,61,Louisiana,XL,Blue,Summer,3.2,Yes,Free Shipping,Yes,No,39,UPI,Quarterly
+26,64,Female,Sneakers,Footwear,69,Virginia,M,Green,Summer,2.5,No,Free Shipping,Yes,No,5,PayPal,Quarterly
+27,42,Female,Jeans,Clothing,79,Missouri,M,Green,Winter,3.2,Yes,Next Day,No,No,5,Debit Card,Weekly
+28,21,Female,Shirt,Clothing,97,Wisconsin,XL,White,Fall,2.2,Yes,Free Shipping,Yes,Yes,33,Debit Card,Fortnightly
+29,31,Female,Belt,Accessories,18,Massachusetts,S,Black,Fall,2.7,Yes,Next Day,Yes,No,9,Credit Card,Monthly
+30,63,Male,Jeans,Clothing,23,North Carolina,XL,Gray,Winter,3.5,Yes,Next Day,No,Yes,3,Cash,Monthly
+31,46,Female,Pants,Clothing,79,Vermont,S,Maroon,Spring,3.3,Yes,Store Pickup,No,Yes,17,Credit Card,Monthly
+32,24,Female,Coat,Outerwear,21,Montana,S,Pink,Summer,2,No,Store Pickup,Yes,No,9,Credit Card,Weekly
+33,50,Female,Coat,Outerwear,84,Oklahoma,XL,Green,Fall,4,Yes,Free Shipping,No,Yes,25,Credit Card,Weekly
+34,45,Male,Watch,Accessories,53,Missouri,M,Blue,Summer,3.3,Yes,Standard,No,Yes,23,UPI,Fortnightly
+35,59,Male,Sneakers,Footwear,77,Wisconsin,L,Pink,Fall,2.6,No,Store Pickup,Yes,Yes,25,Credit Card,Weekly
+36,21,Male,Pants,Clothing,12,Vermont,M,Black,Fall,2.9,No,Next Day,Yes,No,41,Credit Card,Bi-Weekly
+37,64,Female,Boots,Footwear,51,Alaska,XL,Green,Fall,4.1,Yes,Next Day,Yes,Yes,30,Cash,Fortnightly
+38,36,Female,Belt,Accessories,23,Arizona,XL,Maroon,Winter,5,Yes,Next Day,Yes,Yes,16,Credit Card,Fortnightly
+39,59,Female,Sweater,Clothing,72,Oregon,S,Green,Fall,4.4,Yes,Next Day,No,No,15,Cash,Weekly
+40,60,Female,Jeans,Clothing,62,Maryland,XL,Maroon,Summer,3.4,Yes,Express,No,No,46,PayPal,Fortnightly
+41,44,Male,Blazer,Outerwear,81,Louisiana,L,Pink,Spring,3.8,No,Free Shipping,No,Yes,18,UPI,Weekly
+42,30,Male,Sandals,Footwear,70,Kentucky,M,Blue,Fall,4.5,Yes,Store Pickup,Yes,No,16,Credit Card,Bi-Weekly
+43,41,Female,Hoodie,Outerwear,21,Wyoming,S,Black,Winter,2.1,Yes,Standard,No,Yes,46,Credit Card,Bi-Weekly
+44,37,Male,Shirt,Clothing,100,Alaska,XL,Black,Winter,2.6,Yes,Free Shipping,Yes,Yes,14,Debit Card,Fortnightly
+45,18,Female,Jeans,Clothing,36,Colorado,L,White,Spring,4.5,Yes,Next Day,No,Yes,23,Debit Card,Monthly
+46,29,Female,Hoodie,Outerwear,68,Nebraska,S,Gray,Spring,2.2,Yes,Next Day,No,No,39,UPI,Weekly
+47,18,Male,Sweater,Clothing,39,Utah,L,Blue,Fall,4.6,No,Store Pickup,Yes,No,14,PayPal,Fortnightly
+48,34,Female,Sweater,Clothing,57,Ohio,S,Green,Fall,4,No,Next Day,Yes,Yes,21,UPI,Monthly
+49,65,Male,Jeans,Clothing,23,New Mexico,L,Gray,Winter,2.3,No,Free Shipping,Yes,No,7,UPI,Monthly
+50,58,Male,Watch,Accessories,61,Massachusetts,M,Blue,Fall,2.1,Yes,Store Pickup,Yes,Yes,7,UPI,Weekly
+51,30,Female,Hoodie,Outerwear,32,Missouri,L,Maroon,Fall,4.5,No,Store Pickup,No,No,41,Debit Card,Quarterly
+52,43,Male,Hoodie,Outerwear,46,Rhode Island,L,Gray,Winter,3.6,No,Standard,Yes,No,16,Cash,Quarterly
+53,27,Female,Boots,Footwear,83,Kansas,XL,Blue,Fall,3.1,No,Next Day,No,Yes,33,Cash,Quarterly
+54,37,Female,Boots,Footwear,33,California,S,Black,Fall,4.8,Yes,Next Day,Yes,No,22,PayPal,Fortnightly
+55,49,Male,Pants,Clothing,10,Washington,M,Black,Fall,4.5,Yes,Free Shipping,Yes,Yes,43,PayPal,Fortnightly
+56,65,Female,Sneakers,Footwear,54,Virginia,L,Gray,Spring,4.6,Yes,Standard,Yes,No,22,PayPal,Weekly
+57,28,Male,Bag,Accessories,10,Kansas,M,Pink,Spring,4.6,Yes,Standard,Yes,Yes,22,Cash,Fortnightly
+58,60,Female,Loafers,Footwear,32,New York,L,Blue,Spring,2.7,Yes,Free Shipping,No,No,17,Cash,Fortnightly
+59,37,Female,Loafers,Footwear,32,New York,XL,Black,Spring,4.3,Yes,Express,No,No,5,PayPal,Quarterly
+60,39,Female,Loafers,Footwear,18,North Carolina,L,White,Summer,4.4,No,Express,No,Yes,17,Cash,Fortnightly
+61,40,Female,Hoodie,Outerwear,13,Michigan,XL,White,Summer,2.8,No,Express,Yes,No,42,Cash,Quarterly
+62,61,Female,Bag,Accessories,72,Kentucky,S,White,Spring,3.1,Yes,Standard,Yes,Yes,28,Credit Card,Fortnightly
+63,41,Female,Hoodie,Outerwear,26,West Virginia,L,Blue,Spring,4.8,Yes,Next Day,No,No,3,Debit Card,Bi-Weekly
+64,59,Female,Pants,Clothing,45,Montana,XL,Gray,Winter,2.8,Yes,Next Day,Yes,No,39,UPI,Weekly
+65,28,Male,Hoodie,Outerwear,56,Arkansas,M,Pink,Spring,2.1,Yes,Store Pickup,No,Yes,23,Cash,Monthly
+66,46,Male,Jacket,Clothing,59,Idaho,L,Black,Winter,3.9,Yes,Free Shipping,Yes,Yes,8,PayPal,Monthly
+67,47,Male,Watch,Accessories,51,Florida,S,Green,Summer,2.5,Yes,Express,No,Yes,19,Debit Card,Quarterly
+68,55,Female,Sneakers,Footwear,41,Utah,L,Green,Fall,4,No,Standard,Yes,No,26,UPI,Fortnightly
+69,18,Male,Coat,Outerwear,98,Pennsylvania,S,Black,Winter,4,No,Standard,Yes,Yes,48,Credit Card,Bi-Weekly
+70,31,Female,Sneakers,Footwear,15,Kansas,L,Pink,Winter,3,Yes,Store Pickup,Yes,No,38,Credit Card,Monthly
+71,35,Male,Loafers,Footwear,63,Rhode Island,XL,Black,Fall,2.4,No,Store Pickup,No,No,6,UPI,Monthly
+72,31,Female,Loafers,Footwear,52,Alaska,L,Maroon,Spring,4.2,Yes,Store Pickup,Yes,No,6,UPI,Fortnightly
+73,19,Male,Loafers,Footwear,29,Iowa,L,Pink,Summer,3.9,No,Next Day,No,No,26,Debit Card,Quarterly
+74,64,Male,Boots,Footwear,40,Utah,L,White,Fall,3.2,No,Express,Yes,No,7,PayPal,Bi-Weekly
+75,42,Male,Blazer,Outerwear,24,Illinois,L,Gray,Summer,3.5,Yes,Store Pickup,Yes,Yes,15,UPI,Bi-Weekly
+76,58,Female,Coat,Outerwear,33,West Virginia,S,Black,Fall,4.3,No,Free Shipping,No,Yes,37,Debit Card,Bi-Weekly
+77,23,Male,Sneakers,Footwear,29,New Hampshire,XL,Pink,Summer,3.7,Yes,Store Pickup,No,No,43,Debit Card,Bi-Weekly
+78,56,Male,Belt,Accessories,83,North Dakota,S,Gray,Summer,4.8,No,Free Shipping,No,No,18,Debit Card,Monthly
+79,32,Male,Sneakers,Footwear,98,Maine,XL,Pink,Spring,2.7,No,Express,Yes,Yes,21,Cash,Weekly
+80,52,Female,Coat,Outerwear,18,Arizona,S,Green,Winter,4.1,Yes,Store Pickup,No,No,18,Debit Card,Monthly
+81,36,Male,Loafers,Footwear,92,Wisconsin,XL,Black,Fall,2.6,No,Free Shipping,No,No,38,PayPal,Bi-Weekly
+82,60,Male,Bag,Accessories,28,Minnesota,L,Maroon,Fall,4.7,Yes,Standard,Yes,Yes,11,UPI,Bi-Weekly
+83,56,Female,Shirt,Clothing,27,Minnesota,M,Maroon,Winter,4.4,Yes,Store Pickup,No,Yes,6,Credit Card,Fortnightly
+84,60,Female,Shirt,Clothing,34,Illinois,M,White,Fall,4.3,No,Standard,No,Yes,21,PayPal,Quarterly
+85,32,Male,Belt,Accessories,32,Vermont,M,Pink,Spring,4.8,No,Free Shipping,No,No,27,Credit Card,Quarterly
+86,25,Female,Shirt,Clothing,79,West Virginia,M,Pink,Fall,2.3,No,Express,Yes,No,33,Credit Card,Fortnightly
+87,64,Male,Hoodie,Outerwear,16,Michigan,S,White,Winter,2.2,No,Express,Yes,Yes,17,Cash,Bi-Weekly
+88,46,Female,Sunglasses,Accessories,60,Minnesota,S,White,Spring,3.6,No,Free Shipping,Yes,Yes,34,Credit Card,Weekly
+89,20,Female,Sandals,Footwear,68,Tennessee,M,Blue,Summer,3.4,No,Free Shipping,No,Yes,15,Credit Card,Bi-Weekly
+90,44,Female,Coat,Outerwear,57,Kansas,XL,Black,Spring,3.6,No,Free Shipping,No,Yes,9,Debit Card,Fortnightly
+91,61,Female,Sneakers,Footwear,14,South Carolina,L,Gray,Fall,4.5,No,Standard,No,No,13,Debit Card,Bi-Weekly
+92,43,Male,Boots,Footwear,18,Colorado,XL,Black,Winter,3.3,No,Next Day,No,No,6,Cash,Weekly
+93,57,Female,Blazer,Outerwear,91,Rhode Island,S,White,Spring,4.2,Yes,Free Shipping,Yes,No,11,Cash,Fortnightly
+94,62,Female,Coat,Outerwear,93,Montana,L,Green,Winter,4.3,Yes,Standard,Yes,Yes,43,PayPal,Monthly
+95,54,Female,Sweater,Clothing,56,Maryland,XL,Maroon,Fall,2.3,No,Store Pickup,No,Yes,29,Cash,Weekly
+96,51,Male,Loafers,Footwear,78,Oregon,XL,Gray,Spring,4.1,No,Store Pickup,No,No,9,Cash,Weekly
+97,23,Male,Hoodie,Outerwear,12,Florida,S,Maroon,Winter,2.2,Yes,Next Day,Yes,No,17,Cash,Bi-Weekly
+98,35,Male,Loafers,Footwear,27,Oregon,XL,White,Summer,3.5,No,Free Shipping,Yes,No,28,Cash,Monthly
+99,38,Male,Blazer,Outerwear,78,Georgia,M,Maroon,Spring,2.4,Yes,Standard,Yes,No,3,Debit Card,Fortnightly
+100,60,Female,Coat,Outerwear,43,New Hampshire,XL,White,Spring,4.8,No,Standard,Yes,No,27,Cash,Quarterly
